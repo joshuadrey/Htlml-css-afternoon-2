@@ -1,0 +1,226 @@
+
+body{
+    
+    height: 100%;
+    width: 100%;
+}
+
+.page{
+    background-size: cover;
+    background-position-y: center; 
+    width: 100%;
+    height: 100vh;
+   
+}
+
+.page1{
+    /* width: 100%;
+    height: 100vh; */
+    display: inline-block;
+    background: url(https://www.spacex.com/static/images/backgrounds-2021/HP_SN11_Vertical_20210311_IMG_01221.webp) bottom center no-repeat;
+    background-size: cover;
+    background-position-y: center; 
+}
+
+
+header{
+   width: 100%;
+   height: 120px;
+   display: flex;
+   justify-content: center;
+}
+
+
+
+.innerbox {
+    width: 98%;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+.inner{
+    width: 75%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 300px;
+    height: 30px;
+    margin-top: 26px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.buttons{
+color: whitesmoke;
+width: 1000px;
+margin-top: 25px;
+font-size: medium;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
+
+.one {
+    text-transform: uppercase;
+
+}
+
+.two {
+    text-transform: uppercase;
+
+}
+
+.three {
+    text-transform: uppercase;
+
+}
+
+.four {
+    text-transform: uppercase;
+
+}
+
+.five {
+    text-transform: uppercase;
+
+}
+
+.six {
+    text-transform: uppercase;
+
+}
+
+.leftboxes{
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.shop{
+    color: whitesmoke;
+    width: 50px;
+    height: 20px;
+    font-size: medium;
+    text-transform: uppercase;
+    margin-right: 25px;
+}
+
+.bar {
+width: 30px;
+height: 30px;
+margin-top: 12px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+.A{
+background-color: white;
+width: 20px;
+height: 3px;
+border-radius: 25%;
+margin: 1px;
+}
+
+.B{
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    border-radius: 25%;
+    margin: 1px;
+
+}
+
+.C{
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    border-radius: 25%;
+    margin: 1px;
+
+}
+
+
+
+
+
+.flightTest{
+    width: 35%;
+    height: 230px;
+    margin-top: 25%;
+    margin-left: 58%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+}
+
+.title1{
+    color: whitesmoke;
+    margin: 0;
+    font-size: 20px;
+}
+
+.content1{
+    background-color: white;
+    color: black;
+    width: 500px;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.in{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box{
+border: solid 2px whitesmoke;
+font-size: medium;
+width: 25%;
+height: 45x;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+}
+
+.replay{
+color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
